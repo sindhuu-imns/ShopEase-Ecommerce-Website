@@ -94,6 +94,13 @@ https://github.com/sindhuu-imns
 LinkedIn:
 https://www.linkedin.com/in/imohananagasindhuja
 
+## Live Website
+
+
+
+## Repository
+
+https://github.com/yourusername/ShopEase-Ecommerce-Website
 ---
 
 ## 📜 License
