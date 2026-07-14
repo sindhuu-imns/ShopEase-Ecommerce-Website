@@ -92,7 +92,7 @@ GitHub:
 https://github.com/sindhuu-imns
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/imohananagasindhuja
 
 ---
 
